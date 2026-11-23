@@ -1,0 +1,9 @@
+output/
+release/
+backup_*/
+*.exe
+*.o
+.vscode/
+jogo-fut-movimentacao-bonecos/
+main_backup.c
+settings.json
