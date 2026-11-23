@@ -1,6 +1,8 @@
 # Futebol
 
 Jogo de futebol 2D para 2 jogadores, feito em C com raylib.
+<img width="1201" height="649" alt="image" src="https://github.com/user-attachments/assets/c7367a35-a70a-494f-9d25-74c806f3fc91" />
+
 
 ## Como jogar
 1. Baixe o `Futebol-Windows.zip` na aba **Releases**.
